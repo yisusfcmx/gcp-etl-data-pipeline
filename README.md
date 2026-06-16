@@ -1,2 +1,7 @@
-# gcp-etl-data-pipeline
-Schema-driven ETL pipeline for validation, transformation and controlled ingestion into BigQuery
+Pipeline para generación automatizada de matrices de transición y reportes segmentados.
+
+Tecnologías:
+Python
+BigQuery
+Pandas
+Google Sheets
